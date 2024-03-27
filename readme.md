@@ -13,7 +13,7 @@ Imtixon savollari:
 - Supplier -> T ()
 - Consumer -> (T)
 - - BiConsumer -> (T,V)
-- - DoubleConsumer -> (Double)
+- - DoubleConsumer -> (double)
 - - IntConsumer -> (Int)
 - Predicate ->  boolean (T)
 - Comparator -> int (T,V)
